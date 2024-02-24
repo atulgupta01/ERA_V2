@@ -8,6 +8,6 @@
   * File is used to train the neural network and check the accuracy/precision of the model
 
 ## Important Points
-  * Overall Accuracy achieved is 99.24%
+  * Highest accuracy achieved on test set is 99.31%
   * Model has 592,660 trainable parameters
   * It took approx 20 minutes to execute the whole code
