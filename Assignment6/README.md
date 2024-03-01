@@ -40,7 +40,7 @@
 6. Sixth Block - Conv, Conv, Fully Connected Layer
 7. Seventh Block - Softmax
 
-#### Kept the block architecture the same but played around with the number of blocks
+#### Kept the block architecture same (i.e. Conv, Relu, BN, Dropout) but played around with the number of blocks
 #### Batch size in the given file was 128 and did not try to change that
 #### Achieved the results in the 9th iteration
 
