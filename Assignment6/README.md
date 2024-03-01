@@ -6,6 +6,14 @@
     - Images for the excel - Excel-LR-<LR>.jpg i.e. Excel-LR-0.1.jpg
     - Images for the loss graph - Graph-LR-<LR>.jpg i.e. Graph-LR-0.1.jpg
 
+### Excel File
+
+![Excel](https://github.com/atulgupta01/ERA_V2/blob/main/Assignment6/Excel-LR-2.jpg)|
+|:--:|
+| *Learning Rate = 2* |
+
+### Graphs for different learning rates
+
 ![Graph1](https://github.com/atulgupta01/ERA_V2/blob/main/Assignment6/Graph-LR-0.1.jpg)|
 |:--:|
 | *Learning Rate = 0.1* |
