@@ -1,6 +1,7 @@
 ## Experiment-1
 
-### Targets: Copy the model from assignment 6 and train for 15 epochs and see the accuracy
+### Targets: 
+* Copy the model from assignment 6 and train for 15 epochs and see the accuracy
 ### Results: 
 * Num of Parameters - 13700
 * Best Training Accuracy - 98.89
