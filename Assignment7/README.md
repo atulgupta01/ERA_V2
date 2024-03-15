@@ -95,6 +95,63 @@
 ### Analysis:
 * No Overfitting
 * Test Accuracy is not consistent
+* Also training and test accuracy is stangnant.
   
 ### File Link: https://github.com/atulgupta01/ERA_V2/blob/main/Assignment7/Assignment_7-5.ipynb
+  * Model - Net5 in https://github.com/atulgupta01/ERA_V2/blob/main/Assignment7/model.py
+
+## Experiment-6
+
+### Targets: 
+* Add random rotation to improve the accuracy to model 5
+### Results: 
+* Num of Parameters - 7984
+* Best Training Accuracy - 98.96
+* Best Test Accuracy - 99.25
+
+### Analysis:
+* No Overfitting
+* Test Accuracy is consistent and crossed 99% in epoch 6
+* Training accuracy did not improve in last few epochs
+  
+### File Link: https://github.com/atulgupta01/ERA_V2/blob/main/Assignment7/Assignment_7-6.ipynb
+  * Model - Net5 in https://github.com/atulgupta01/ERA_V2/blob/main/Assignment7/model.py
+
+## Experiment-7
+
+### Targets: 
+* Add random rotation to improve the accuracy to model 4.
+* Compare results of Model 4 and Model 5
+### Results: 
+* Num of Parameters - 7998
+* Best Training Accuracy - 99.10
+* Best Test Accuracy - 99.26
+
+### Analysis:
+* No Overfitting
+* Test Accuracy is consistent and crossed 99.20% in epoch 7
+* Training accuracy did not improve in last few epochs
+* Difference between training and test is very small.
+* Decided to training Model 5 instead of Model 4 - Play with the learning rate
+  
+### File Link: https://github.com/atulgupta01/ERA_V2/blob/main/Assignment7/Assignment_7-7.ipynb
+  * Model - Net4 in https://github.com/atulgupta01/ERA_V2/blob/main/Assignment7/model.py
+
+## Experiment-8
+
+### Targets: 
+* Improve training and test accuracy by changing Learning rate
+* Try different learning rates
+### Results: 
+* Num of Parameters - 7984
+* Best Training Accuracy - 99.29
+* Best Test Accuracy - 99.43
+
+### Analysis:
+* Did not try reducing LR from 0.1 and after 0.2, results were bad
+* Kept Step Size as 5
+* No Overfitting
+* Test Accuracy is consistent and crossed 99.40% in epoch 8
+* 
+### File Link: https://github.com/atulgupta01/ERA_V2/blob/main/Assignment7/Assignment_7-8.ipynb
   * Model - Net5 in https://github.com/atulgupta01/ERA_V2/blob/main/Assignment7/model.py
