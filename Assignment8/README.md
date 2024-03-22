@@ -11,9 +11,25 @@
 * Following the suggested model - C1 C2 c3 P1 C4 C5 C6 c7 P2 C8 C9 C10 GAP c11
 
 
-### Excel File
-
-![Excel](https://github.com/atulgupta01/ERA_V2/blob/main/Assignment6/Excel-LR-2.jpg)|
+### Loss and Accuracy Plots
+![BN_GRAPH](https://github.com/atulgupta01/ERA_V2/blob/main/Assignment8/Graph_BN.png)
 |:--:|
-| *Learning Rate = 2* |
+| *Batch Normalization* |
+![LN_GRAPH](https://github.com/atulgupta01/ERA_V2/blob/main/Assignment8/Graph_LN.png)
+| *Layer Normalization* |
+![GN_GRAPH](https://github.com/atulgupta01/ERA_V2/blob/main/Assignment8/Graph_GN.png)
+| *Group Normalization* |
 
+## Findings based on Graphs
+
+1. The variation in error is much higher in Layer Normalization training and it could not reach 70% Accuracy
+2. Training Accuracy has consistent falls in Group and Layer normalization.
+
+### Error Images
+![BN_ERROR](https://github.com/atulgupta01/ERA_V2/blob/main/Assignment8/Error_BN.png)
+|:--:|
+| *Batch Normalization* |
+![LN_ERROR](https://github.com/atulgupta01/ERA_V2/blob/main/Assignment8/Error_LN.png)
+| *Layer Normalization* |
+![GN_ERROR](https://github.com/atulgupta01/ERA_V2/blob/main/Assignment8/Error_GN.png)
+| *Group Normalization* |
