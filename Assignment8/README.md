@@ -3,6 +3,7 @@
 * Assignment_8_BN - code for the Batch normalization
 * Assignment_8_LN - code for the Layer normalization
 * Assignment_8_GN - code for the Group normalization
+* model.py - Contains all the models for S6, S7 and S8.
 * Each model contains less than 50,000 Parameters
 * BN and GN models achieved more than 70% accuracy easily.
 * LN could not achieve 70% Accuracy
