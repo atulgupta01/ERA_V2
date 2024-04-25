@@ -44,11 +44,13 @@
 
 # Images correctly predicted
 
-<img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-10.jpg" alt="Resnet 18" width="150" height="150">  <img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-103.jpg" alt="Resnet 18" width="150" height="150"> <img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-104.jpg" alt="Resnet 18" width="150" height="150">  <img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-80.jpg" alt="Resnet 18" width="150" height="150">
+<img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-10.jpg" alt="Image" width="150" height="150">  <img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-103.jpg" alt="Image" width="150" height="150"> <img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-104.jpg" alt="Image" width="150" height="150">  <img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-80.jpg" alt="Image" width="150" height="150">
 
-<img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-65.jpg" alt="Resnet 18" width="150" height="150">  <img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-62.jpg" alt="Resnet 18" width="150" height="150">  <img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-72.jpg" alt="Resnet 18" width="150" height="150">  <img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-103.jpg" alt="Resnet 18" width="150" height="150">
+<img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-65.jpg" alt="Image" width="150" height="150">  <img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-62.jpg" alt="Image" width="150" height="150">  <img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-72.jpg" alt="Image" width="150" height="150">  <img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-103.jpg" alt="Image" width="150" height="150">
 	
 # Images incorrectly predicted
 
 <img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-13.jpg" alt="Resnet 18" width="200" height="200">  <img src="https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/output/Image-63.jpg" alt="Resnet 18" width="200" height="200">
 
+# Training Log
+[Training Log](https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_12/Output.pdf)
