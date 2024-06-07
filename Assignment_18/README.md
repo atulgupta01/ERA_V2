@@ -3,7 +3,7 @@
 
 ### Final loss - 1.787
 
-## Following changes were made
+## Following changes were implemented to get the accuracy
 1. Implemented collate_fn function
 2. Added AMP
 3. Added OCP
