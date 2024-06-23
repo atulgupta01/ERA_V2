@@ -19,9 +19,9 @@
   - **'3616', 'प्रेमचंद'** - Token id suggests later than 1729 but repeated in the novel (Name of Author)
   - **'280', ' ।'** - Hindi fullstop
 * It also has certain limitations
--  '827', ' मि�' (Not able to decode for the token)
--  '182', '�' (Not able to decode for the token)
--  **But this did not impact the overall conversion**
+  -  '827', ' मि�' (Not able to decode for the token)
+  -  '182', '�' (Not able to decode for the token)
+  -  **But this did not impact the overall conversion**
 
 
 ## Files
