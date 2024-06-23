@@ -25,9 +25,9 @@ with gr.Blocks() as demo:
         inputs = [gr.TextArea(label = "Enter initial text to generate tokens in Hindi", lines = 10)]
         generate_btn = gr.Button(value = 'Generate Text')
       with gr.Column():
-        enc = gr.Textbox(label = "Encoded Token")
-        txt = gr.Textbox(label = "Decoded Text")
-        map = gr.Textbox(label = "Mapping of the text")
+        enc = gr.Textbox(label = "Encoded Tokens")
+        txt = gr.Textbox(label = "Decoded Text from tokens")
+        map = gr.Textbox(label = "Mapping of the tokens and respective texts")
         outputs  = [
             enc,
             txt,
