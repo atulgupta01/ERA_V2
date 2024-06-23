@@ -25,6 +25,6 @@
 
 
 ## Files
-1. Training Log in the [Jupyter notebook](https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_20/S_19_train.ipynb)
-2. App Development log in [Jupyter notebook](https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_20/app.py)
+1. Training Log in the [Jupyter notebook](https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_20/S_20_train.ipynb)
+2. App Development log in [Jupyter notebook](https://github.com/atulgupta01/ERA_V2/blob/main/Assignment_20/S_20_app.ipynb)
 
