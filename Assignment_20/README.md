@@ -10,6 +10,7 @@
 * Downloaded one novel by renown author **Mushi Premchand** from this [site](https://archive.org/details/booksbylanguage_hindi?tab=collection&query=munshi)
 * The regex used is standard for devanagri lipi _(r""" ?\p{Devanagari}+| ?\p{N}+| ?[^\s\p{L}\p{N}]+|\s+(?!\S)|\s+""")_
 * Used **5000** tokens and It worked well for most of the tokens.
+* Compression ratio - **9.643**
 * Some interesting tokens generated -
   - **'326', ' में'** - Very frequent token
   - **'364', ' भी'** - Very frequent token
